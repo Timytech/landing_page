@@ -80,7 +80,7 @@ ul{
 
 .hlink:hover{
     color: rgb(255, 227, 65);
-    font-size: larger;
+    text-decoration: underline;
 }
 
 h1{
