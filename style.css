@@ -49,7 +49,7 @@ body{
 .hero{
     width: 300px;
     height: 150px;
-    background-image: url("/images/p1.jpg");
+    background-image: url("./images/p1.jpg");
     border-radius: 10px;
     background-size: cover; 
     box-shadow: 2px 2px #a9b0b1;
@@ -147,27 +147,27 @@ h1{
 }
 
 #fb1{
-    background-image: url("/images/m1.jpg");
+    background-image: url("./images/m1.jpg");
 }
 
 #fb2{
-    background-image: url("/images/m2.jpg");
+    background-image: url("./images/m2.jpg");
 }
 
 #fb3{
-    background-image: url("/images/m3.jpg");
+    background-image: url("./images/m3.jpg");
 }
 
 #fb4{
-    background-image: url("/images/m4.jpg");
+    background-image: url("./images/m4.jpg");
 }
 
 #fb5{
-    background-image: url("/images/m5.jpg");
+    background-image: url("./images/m5.jpg");
 }
 
 #fb6{
-    background-image: url("/images/m6.jpg");
+    background-image: url("./images/m6.jpg");
 }
 
 .main-2{
