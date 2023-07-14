@@ -17,3 +17,6 @@ Marguerite daisy flower: Image by bess.hamiti@gmail.com from Pixabay
 Bird of Paradise flower: Image by Stefan Schweihofer from Pixabay
 
 White lily flower: Image by bess.hamiti@gmail.com from Pixabay
+
+## Live preview link:
+https://timytech.github.io/landing_page/
